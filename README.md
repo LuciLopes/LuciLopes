@@ -1,5 +1,5 @@
  <div align="center">
- <h1> Lucineia Lopes <img src="https://i0.wp.com/techjambo.com.br/wp-content/uploads/2022/09/Flor-desenho-9-722x1024.png?ssl=1" width="40"></h1>
+ <h1> Lucineia Muniz <img src="https://i0.wp.com/techjambo.com.br/wp-content/uploads/2022/09/Flor-desenho-9-722x1024.png?ssl=1" width="40"></h1>
   </div>
   <div align="left">
   <br>
