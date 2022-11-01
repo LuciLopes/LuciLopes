@@ -10,7 +10,7 @@
   </a> 
 </div>
 
-   ![Snake animation](https://github.com/LuciLopes/LuciLopes/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LuciLopes/LuciLopes/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
     <div align="center">
